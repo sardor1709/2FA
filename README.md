@@ -1,2 +1,6 @@
 # 2FA
-Two-Factor Authentication
+Two-Factor Authentication With PyOTP, .env and Google Authenticator in Your Flask App
+
+Github:
+
+Telegram: https://t.me//ranger_707
